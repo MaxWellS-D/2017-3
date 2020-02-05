@@ -1,0 +1,29 @@
+{
+  "name": "2017-3",
+  "version": "0.0.2",
+  "description": "Learning node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxWellS-D/2017-3.git"
+  },
+  "keywords": [
+    "learn",
+    "node",
+    "server",
+    "seattle",
+    "academy"
+  ],
+  "author": "Max Sindel-Dempcy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxWellS-D/2017-3/issues"
+  },
+  "homepage": "https://github.com/MaxWellS-D/2017-3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
